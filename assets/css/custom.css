@@ -1,0 +1,14 @@
+::placeholder{
+    text-transform: capitalize !important;
+}
+textarea{
+    resize: none !important;
+}
+
+p{
+    text-align: justify !important;
+}
+
+.topBar .dropdown-menu{
+    z-index: 9999 !important;
+}
